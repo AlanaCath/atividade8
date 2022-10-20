@@ -1,0 +1,12 @@
+
+* {margin: 50; padding: 50;}
+body{ background-color: rgb(117, 117, 202);}
+body {font-family: Arial, Helvetica, sans-serif;}
+div { background-color: rgb(233, 210, 255); margin: 0%; width: 100%; height: 50%}
+h1 {color: rgb(233, 210, 255);}
+h1 {text-align: center;}
+h3 {color: rgb(117, 117, 202);}
+h3 {text-align: center;}
+img {position: absolute;left: 38%;}
+aside {color:rgb(117, 117, 202); background-color: rgb(233, 210, 255); margin: 1%; width: 25%;}
+dd {font-family: Arial, Helvetica, sans-serif; font-size:larger;}
